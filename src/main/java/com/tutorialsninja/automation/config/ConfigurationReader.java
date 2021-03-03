@@ -7,3 +7,31 @@ public interface ConfigurationReader {
 	public int getPageLoadTimeOut();
 
 }
+/*
+public interface ConfigurationReader {
+	
+	public String getUrl();
+	public String getBrowser();
+	public int getPageLoadTimeOut();
+}
+public interface ConfigurationReader{
+	public String getUrl();
+	public String getBrowser();
+	public int getPageLoadTimeOut();
+}
+public interface ConfigurationReader {
+	public String getUrl();
+	public String getBrowser();
+	public int getPageLoadTimeOut();
+}
+public interface ConfigurationReader {
+	public String getUrl();
+	public String getBrowser();
+	public int getPageLoadTimeOut();
+}
+
+public interface ConfigurationReader {
+	public String getUrl();
+	public String getBrowser();
+	public int getPageLoadTimeOut();
+}*/
